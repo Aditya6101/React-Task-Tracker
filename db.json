@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wake Up & Do Workout",
+      "day": "Feb 4th at 4:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Eat",
+      "day": "Feb 4th at 9:30am",
+      "reminder": true
+    },
+    {
+      "text": "Code",
+      "day": "Everyday 10AM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
